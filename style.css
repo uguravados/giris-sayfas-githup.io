@@ -24,7 +24,7 @@ label{
 
     display: inline-block;
     width: 150px;
-text-align: left;
+    text-align: left;
 padding: 20px;
 }
 
@@ -63,7 +63,4 @@ input:hover{
     background-color: #8EC5FC;
     color: white;
 }
-.buton{
-    
-    
-}
+
